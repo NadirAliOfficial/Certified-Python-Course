@@ -1,0 +1,151 @@
+Student_ID,First_Name,Last_Name,Grade,Age,Enrollment_Date,Major,GPA
+3101,Emma,Scott,D,17,2017-10-01,Engineering,3.2
+3102,William,Turner,A,18,2020-02-24,Psychology,2.05
+3103,Lucas,Hill,F,18,2020-12-13,Computer Science,3.71
+3104,Sophia,Wright,F,22,2022-04-22,Engineering,3.17
+3105,Liam,Anderson,B,18,2020-09-02,Art,2.1
+3106,Lucas,Wright,D,21,2020-10-26,Science,3.47
+3107,James,Baker,D,21,2018-09-07,Psychology,2.37
+3108,Sophia,Anderson,B,20,2018-08-16,Psychology,3.7
+3109,Emma,Baker,B,18,2023-08-03,History,2.14
+3110,Emma,Scott,D,19,2017-04-02,Psychology,2.45
+3111,James,Turner,C,20,2022-02-16,Art,2.39
+3112,Sophia,Stewart,D,18,2019-09-24,Science,3.23
+3113,Isabella,Adams,F,21,2020-08-24,Engineering,1.62
+3114,Isabella,Anderson,D,16,2017-12-30,Psychology,2.24
+3115,James,Scott,F,18,2019-07-06,Science,1.53
+3116,Isabella,Scott,A,22,2021-10-16,Science,4
+3117,Isabella,Young,D,19,2021-01-23,Art,2.62
+3118,Mia,Stewart,B,15,2017-03-08,Science,2.15
+3119,Liam,Clark,F,22,2018-02-04,Psychology,3.96
+3120,Noah,Hill,A,21,2019-07-14,Computer Science,3.5
+3121,Noah,Hill,B,15,2023-04-28,Computer Science,3.39
+3122,James,Turner,B,22,2022-01-26,History,2.73
+3123,Olivia,Anderson,F,14,2022-05-30,Math,2.16
+3124,Olivia,Anderson,C,19,2018-07-09,Psychology,3.7
+3125,Liam,Stewart,C,22,2021-07-24,Engineering,2.81
+3126,Sophia,Stewart,F,18,2019-02-17,History,2.8
+3127,Olivia,Hill,D,20,2018-05-21,Computer Science,3.31
+3128,Sophia,Turner,C,14,2022-10-12,History,1.67
+3129,Olivia,Scott,A,18,2018-05-17,Science,3.52
+3130,Noah,Adams,D,17,2020-10-28,History,3.02
+3131,William,Adams,F,16,2021-03-02,Computer Science,3.49
+3132,Sophia,Turner,C,20,2018-11-29,Science,3.48
+3133,Isabella,Young,F,15,2022-08-23,Psychology,3.6
+3134,Lucas,Scott,A,21,2023-04-07,History,2.46
+3135,Isabella,Young,C,20,2017-04-20,Psychology,3.4
+3136,William,Young,F,18,2022-01-29,Science,1.94
+3137,Mia,Hill,C,18,2023-06-28,History,3.05
+3138,James,Hill,B,22,2018-06-23,History,2.65
+3139,William,Adams,A,16,2018-12-10,History,2.21
+3140,Mia,Adams,B,22,2020-03-17,Computer Science,2.73
+3141,Olivia,Adams,D,15,2017-02-23,Art,1.52
+3142,James,Stewart,D,16,2018-12-14,Engineering,3.5
+3143,James,Anderson,F,17,2017-06-09,Psychology,2.76
+3144,Noah,Young,C,21,2019-07-01,Art,3.73
+3145,William,Clark,B,15,2018-01-21,Art,3.57
+3146,Emma,Baker,B,14,2021-08-29,Computer Science,3.67
+3147,Mia,Anderson,F,22,2019-06-24,Art,3.09
+3148,James,Young,D,15,2017-06-11,Art,2.8
+3149,Mia,Baker,D,19,2020-11-12,Computer Science,1.72
+3150,Noah,Stewart,F,18,2021-01-24,Computer Science,3.16
+3151,Lucas,Wright,C,16,2018-10-31,Art,3.34
+3152,Mia,Turner,B,18,2022-08-13,Psychology,2.81
+3153,Lucas,Adams,B,16,2020-01-04,Math,3.41
+3154,Olivia,Clark,A,20,2017-06-16,Art,1.98
+3155,Emma,Stewart,B,22,2019-09-11,Engineering,3.31
+3156,Olivia,Hill,A,21,2020-07-07,Engineering,3.31
+3157,William,Young,D,21,2021-10-11,Science,3.95
+3158,William,Wright,D,20,2022-08-04,Science,1.79
+3159,Isabella,Baker,F,14,2022-11-06,Art,1.83
+3160,Lucas,Adams,D,19,2020-12-29,Psychology,3.32
+3161,Olivia,Anderson,C,15,2023-01-26,History,3.11
+3162,Noah,Turner,D,18,2021-10-12,Psychology,2.77
+3163,William,Clark,A,17,2018-06-19,History,1.79
+3164,Emma,Scott,D,22,2019-02-12,Math,2.68
+3165,Emma,Anderson,A,15,2017-08-01,Math,3.33
+3166,Lucas,Wright,C,16,2017-12-05,Psychology,3.74
+3167,Mia,Turner,B,14,2020-06-27,Science,3.28
+3168,Olivia,Turner,B,17,2020-04-30,History,1.92
+3169,Liam,Adams,D,16,2020-05-07,Psychology,1.93
+3170,Noah,Wright,D,20,2019-01-19,Math,2.48
+3171,Lucas,Clark,A,20,2019-09-16,Art,2.15
+3172,Sophia,Stewart,C,22,2023-07-08,Engineering,1.63
+3173,Olivia,Baker,B,21,2021-10-23,Engineering,1.68
+3174,Liam,Scott,C,20,2022-01-07,Art,2.55
+3175,Olivia,Young,C,15,2017-01-22,Engineering,3.46
+3176,William,Turner,D,15,2020-05-27,Science,2.79
+3177,Sophia,Anderson,B,14,2019-03-01,Art,3.49
+3178,Emma,Anderson,C,19,2018-09-14,Psychology,1.62
+3179,Lucas,Turner,B,17,2021-11-05,Science,2.77
+3180,Olivia,Wright,A,14,2021-07-21,Science,1.81
+3181,Sophia,Turner,D,16,2020-11-12,Engineering,1.57
+3182,Liam,Stewart,A,15,2017-03-15,Engineering,2.56
+3183,William,Stewart,B,21,2021-02-19,Computer Science,1.58
+3184,Lucas,Wright,B,20,2022-11-03,Science,3.34
+3185,Liam,Anderson,A,17,2021-05-27,Math,3.18
+3186,Mia,Anderson,B,18,2018-05-08,Computer Science,3.37
+3187,Isabella,Clark,A,14,2019-04-15,Art,3.17
+3188,Liam,Wright,B,19,2018-07-31,Engineering,1.81
+3189,Isabella,Stewart,F,18,2022-06-19,Computer Science,2.21
+3190,Liam,Adams,C,15,2023-03-02,Computer Science,3.87
+3191,Sophia,Anderson,C,16,2017-07-28,Psychology,3.14
+3192,William,Young,C,17,2021-09-08,Art,3.89
+3193,William,Baker,D,20,2023-04-28,Art,2.19
+3194,Sophia,Hill,B,19,2018-03-04,Art,3.26
+3195,Noah,Wright,C,17,2018-09-24,Math,2.15
+3196,James,Stewart,B,18,2017-07-05,Engineering,2.85
+3197,Emma,Adams,D,20,2020-08-13,Art,3.87
+3198,Liam,Hill,C,14,2017-09-30,Art,2.14
+3199,Mia,Wright,F,19,2017-07-29,Math,1.63
+3200,William,Clark,C,17,2019-12-08,Math,2.8
+3201,William,Baker,B,20,2017-06-01,Engineering,3.06
+3202,Isabella,Young,C,21,2023-03-14,Math,3.59
+3203,Sophia,Scott,F,14,2020-04-20,Math,3.65
+3204,Emma,Turner,F,18,2017-10-31,Psychology,2.15
+3205,Liam,Young,C,21,2018-08-28,Psychology,3.34
+3206,James,Hill,B,19,2020-12-27,Computer Science,1.91
+3207,Liam,Stewart,B,19,2023-06-05,Art,3.92
+3208,Olivia,Hill,D,21,2019-06-30,Art,1.68
+3209,Liam,Clark,A,20,2021-06-25,Math,3.64
+3210,Mia,Young,B,17,2017-10-03,Psychology,3.74
+3211,Mia,Baker,F,22,2022-10-16,Psychology,3.06
+3212,James,Hill,C,15,2019-05-24,Art,3.67
+3213,Mia,Adams,F,19,2022-11-30,Engineering,2.66
+3214,William,Scott,B,16,2023-01-14,Art,3.74
+3215,Sophia,Hill,D,18,2021-05-01,History,3.84
+3216,William,Anderson,A,22,2020-11-04,Math,2.66
+3217,Liam,Hill,D,16,2020-10-17,History,3.34
+3218,Mia,Clark,A,22,2019-03-03,History,2.17
+3219,Olivia,Adams,B,16,2022-12-01,Psychology,3.66
+3220,Emma,Clark,A,15,2017-11-30,Art,3.86
+3221,Olivia,Turner,B,22,2019-01-12,Computer Science,2.12
+3222,Noah,Baker,D,17,2017-12-26,Computer Science,3.1
+3223,James,Anderson,F,22,2022-01-05,Engineering,2.59
+3224,Olivia,Adams,C,19,2019-12-16,History,3.97
+3225,Noah,Stewart,C,18,2022-02-24,History,2.38
+3226,William,Hill,C,16,2020-10-03,Psychology,2.47
+3227,Emma,Scott,B,21,2022-10-12,History,2.53
+3228,Lucas,Hill,B,18,2022-07-26,Math,1.64
+3229,William,Wright,C,15,2018-07-14,History,2.11
+3230,James,Stewart,F,19,2017-01-10,Psychology,3.99
+3231,Olivia,Anderson,B,16,2020-06-14,Science,3.01
+3232,William,Baker,C,17,2020-02-01,Art,3.7
+3233,Sophia,Clark,C,17,2021-07-04,Science,2.34
+3234,Sophia,Scott,F,14,2018-08-17,History,1.79
+3235,Emma,Baker,C,17,2018-03-28,Math,3.01
+3236,Liam,Wright,D,22,2019-01-01,Computer Science,2.99
+3237,Sophia,Hill,D,19,2018-08-07,Engineering,3.18
+3238,Liam,Adams,B,16,2023-06-30,History,1.65
+3239,William,Wright,F,21,2019-04-10,Science,2.84
+3240,Noah,Wright,C,17,2019-03-14,Science,1.63
+3241,Noah,Adams,C,17,2020-03-13,Engineering,2.35
+3242,Isabella,Adams,C,19,2019-08-22,Math,2.33
+3243,William,Wright,D,15,2018-08-18,Science,2.37
+3244,Sophia,Clark,F,14,2019-08-01,Art,2.67
+3245,Mia,Hill,D,19,2017-04-21,Engineering,1.94
+3246,Lucas,Young,C,20,2018-02-19,Science,3.88
+3247,William,Stewart,D,20,2023-04-02,Science,1.5
+3248,Olivia,Anderson,F,20,2018-02-19,Science,3.3
+3249,Lucas,Stewart,A,16,2018-11-15,Science,3.2
+3250,Olivia,Stewart,C,22,2019-06-09,Math,3.6

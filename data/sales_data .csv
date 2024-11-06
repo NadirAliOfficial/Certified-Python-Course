@@ -1,0 +1,151 @@
+Sale_ID,Product,Price,Quantity,Sale_Date,Store_Location,Customer_Age,Payment_Method
+2101,Tablet,1651.2,63,2022-07-15,Store_C,34,Debit Card
+2102,Smartphone,1324.22,59,2022-06-20,Store_C,57,Debit Card
+2103,Smartphone,1362.49,5,2024-04-06,Store_C,40,Cash
+2104,Keyboard,779.72,43,2023-08-23,Store_C,30,Credit Card
+2105,Tablet,1427.63,18,2023-04-03,Store_E,65,Online Payment
+2106,Keyboard,2089.43,71,2024-10-01,Store_C,68,Online Payment
+2107,Mouse,801.69,22,2023-11-09,Store_D,26,Cash
+2108,Smartphone,1489.51,59,2022-05-18,Store_D,50,Debit Card
+2109,Headphones,678.31,72,2022-09-21,Store_D,47,Debit Card
+2110,Tablet,273.35,27,2023-05-14,Store_D,23,Mobile Payment
+2111,Monitor,1181.86,64,2024-01-11,Store_E,46,Online Payment
+2112,Mouse,1332.72,35,2022-11-17,Store_E,77,Credit Card
+2113,Laptop,315.4,46,2022-09-16,Store_D,36,Debit Card
+2114,Headphones,63.11,7,2023-09-04,Store_A,64,Mobile Payment
+2115,Tablet,1330.99,59,2023-06-13,Store_A,24,Mobile Payment
+2116,Monitor,1687.13,62,2022-09-24,Store_D,25,Online Payment
+2117,Tablet,900.07,50,2024-01-27,Store_C,69,Cash
+2118,Tablet,164.95,31,2023-03-27,Store_C,37,Online Payment
+2119,Mouse,2078.59,70,2024-08-06,Store_C,54,Mobile Payment
+2120,Monitor,1981.21,15,2022-04-23,Store_E,67,Credit Card
+2121,Smartphone,916.99,65,2023-10-25,Store_B,51,Online Payment
+2122,Keyboard,1443.42,20,2022-04-17,Store_B,67,Debit Card
+2123,Tablet,2332.64,6,2024-05-09,Store_C,32,Credit Card
+2124,Smartphone,777.62,24,2022-05-03,Store_C,60,Online Payment
+2125,Monitor,357.36,55,2022-03-10,Store_E,37,Credit Card
+2126,Mouse,654.97,15,2023-08-28,Store_A,70,Cash
+2127,Keyboard,1245.59,27,2024-01-01,Store_D,68,Credit Card
+2128,Laptop,1230.18,21,2023-05-21,Store_B,73,Cash
+2129,Monitor,628.03,26,2022-08-17,Store_A,79,Debit Card
+2130,Mouse,2154.62,66,2022-01-16,Store_C,56,Mobile Payment
+2131,Laptop,1642.49,47,2024-05-22,Store_D,31,Cash
+2132,Monitor,741.21,33,2022-11-13,Store_A,78,Online Payment
+2133,Smartphone,1923,73,2023-03-18,Store_D,18,Online Payment
+2134,Tablet,1555.65,13,2022-10-10,Store_E,54,Online Payment
+2135,Smartphone,191.94,12,2023-03-21,Store_B,31,Mobile Payment
+2136,Headphones,1405.41,20,2022-10-19,Store_C,68,Cash
+2137,Headphones,1748.17,31,2022-12-10,Store_E,34,Online Payment
+2138,Headphones,1937.33,5,2023-01-09,Store_C,54,Mobile Payment
+2139,Headphones,1287.88,16,2023-10-26,Store_E,74,Debit Card
+2140,Keyboard,821.86,48,2023-05-09,Store_A,44,Cash
+2141,Tablet,81.46,43,2023-09-04,Store_C,52,Credit Card
+2142,Mouse,2173.77,62,2023-02-17,Store_B,46,Mobile Payment
+2143,Mouse,589.63,60,2022-09-15,Store_B,48,Credit Card
+2144,Laptop,1723.26,25,2023-02-01,Store_A,39,Mobile Payment
+2145,Headphones,2358.64,25,2022-03-05,Store_A,29,Credit Card
+2146,Headphones,674.79,17,2024-05-12,Store_B,44,Cash
+2147,Smartphone,656.77,55,2024-05-26,Store_A,30,Online Payment
+2148,Headphones,892.82,40,2022-06-08,Store_B,42,Online Payment
+2149,Printer,134.66,7,2022-01-18,Store_C,19,Mobile Payment
+2150,Monitor,2017.12,70,2023-08-05,Store_E,57,Mobile Payment
+2151,Smartphone,672.64,67,2023-07-02,Store_A,77,Credit Card
+2152,Headphones,1965.85,24,2024-02-26,Store_E,45,Debit Card
+2153,Smartphone,1376.77,64,2024-05-09,Store_B,33,Online Payment
+2154,Mouse,745.72,36,2023-11-01,Store_E,46,Mobile Payment
+2155,Tablet,1902.02,59,2023-02-10,Store_A,57,Mobile Payment
+2156,Mouse,999.76,68,2022-02-02,Store_A,47,Online Payment
+2157,Monitor,1847.45,55,2024-08-22,Store_D,27,Online Payment
+2158,Keyboard,1557.45,73,2024-09-23,Store_D,37,Online Payment
+2159,Tablet,1295.32,29,2023-05-27,Store_D,19,Cash
+2160,Smartphone,1967.16,35,2023-12-04,Store_B,73,Credit Card
+2161,Smartphone,867.36,50,2024-01-25,Store_D,22,Cash
+2162,Keyboard,634.07,53,2023-02-06,Store_C,16,Debit Card
+2163,Laptop,2107.5,4,2022-03-09,Store_A,43,Online Payment
+2164,Headphones,347.9,9,2022-12-26,Store_E,29,Cash
+2165,Printer,1899.03,51,2022-05-30,Store_E,68,Online Payment
+2166,Monitor,454.93,63,2023-10-26,Store_C,64,Online Payment
+2167,Monitor,1405.55,12,2022-11-26,Store_C,45,Debit Card
+2168,Printer,1743.95,9,2023-05-01,Store_E,66,Online Payment
+2169,Laptop,1229.86,70,2022-08-08,Store_D,64,Online Payment
+2170,Keyboard,1047.56,59,2024-02-21,Store_B,69,Credit Card
+2171,Mouse,2268.73,72,2024-06-12,Store_A,76,Online Payment
+2172,Keyboard,813.29,67,2024-04-01,Store_B,26,Debit Card
+2173,Laptop,702.46,17,2022-10-17,Store_D,49,Debit Card
+2174,Mouse,1922.08,39,2022-09-20,Store_D,66,Credit Card
+2175,Keyboard,1128,37,2023-02-14,Store_B,57,Mobile Payment
+2176,Mouse,2425.63,34,2023-10-28,Store_B,56,Mobile Payment
+2177,Printer,793.76,38,2022-07-30,Store_E,65,Cash
+2178,Printer,2338.1,33,2024-10-01,Store_B,22,Online Payment
+2179,Printer,941.23,53,2022-06-05,Store_E,16,Cash
+2180,Tablet,825.33,62,2024-02-26,Store_C,25,Mobile Payment
+2181,Laptop,50.36,6,2022-07-10,Store_C,38,Online Payment
+2182,Tablet,1822.02,54,2022-01-29,Store_E,58,Mobile Payment
+2183,Headphones,496.49,46,2022-07-29,Store_C,37,Online Payment
+2184,Printer,2357.28,19,2022-08-21,Store_E,49,Mobile Payment
+2185,Keyboard,1736.41,30,2022-07-29,Store_C,52,Online Payment
+2186,Smartphone,357.97,34,2022-05-20,Store_C,33,Debit Card
+2187,Smartphone,71.78,8,2022-10-07,Store_A,34,Credit Card
+2188,Laptop,1004.82,52,2024-09-12,Store_A,21,Online Payment
+2189,Monitor,1553.71,20,2022-05-27,Store_B,44,Debit Card
+2190,Mouse,1628.96,63,2022-11-06,Store_A,25,Debit Card
+2191,Keyboard,1006.84,74,2022-03-15,Store_C,46,Cash
+2192,Tablet,941.57,45,2023-10-26,Store_D,30,Mobile Payment
+2193,Printer,1942.93,65,2023-06-06,Store_C,38,Cash
+2194,Keyboard,957.18,25,2022-05-13,Store_D,77,Credit Card
+2195,Smartphone,1593.72,34,2024-09-07,Store_B,30,Mobile Payment
+2196,Printer,2181.4,23,2022-07-22,Store_A,71,Debit Card
+2197,Mouse,1985.75,67,2024-03-18,Store_D,27,Mobile Payment
+2198,Keyboard,1583.62,20,2024-02-17,Store_B,44,Online Payment
+2199,Smartphone,898.42,74,2022-04-04,Store_B,69,Credit Card
+2200,Mouse,1140.76,4,2024-02-22,Store_E,17,Credit Card
+2201,Laptop,40,63,2023-10-07,Store_D,74,Cash
+2202,Printer,1571.27,24,2024-06-14,Store_A,59,Debit Card
+2203,Tablet,1159.36,74,2023-09-19,Store_C,67,Online Payment
+2204,Laptop,2379.73,48,2022-01-03,Store_C,32,Mobile Payment
+2205,Smartphone,310.83,43,2022-11-05,Store_B,55,Cash
+2206,Tablet,1874.04,34,2022-08-08,Store_A,50,Mobile Payment
+2207,Printer,150.63,63,2022-03-27,Store_C,35,Debit Card
+2208,Headphones,1625.73,62,2023-04-11,Store_C,30,Online Payment
+2209,Laptop,250.94,18,2022-05-24,Store_B,49,Credit Card
+2210,Keyboard,1986.49,57,2024-04-14,Store_B,44,Credit Card
+2211,Laptop,1527.03,19,2024-05-27,Store_E,61,Debit Card
+2212,Printer,1616.35,58,2024-07-25,Store_A,63,Cash
+2213,Headphones,437.38,8,2023-12-18,Store_D,28,Credit Card
+2214,Tablet,611.84,27,2023-03-15,Store_A,71,Credit Card
+2215,Mouse,2461.43,65,2024-07-25,Store_C,37,Mobile Payment
+2216,Smartphone,628.08,13,2023-02-25,Store_C,49,Online Payment
+2217,Smartphone,1434.34,39,2024-09-02,Store_C,26,Mobile Payment
+2218,Keyboard,2127.66,59,2022-03-30,Store_A,71,Cash
+2219,Keyboard,1534.29,35,2024-05-31,Store_C,17,Online Payment
+2220,Monitor,2162.02,27,2023-06-03,Store_A,39,Online Payment
+2221,Tablet,2120.34,3,2023-03-06,Store_B,53,Mobile Payment
+2222,Monitor,443.88,50,2022-09-05,Store_D,65,Cash
+2223,Headphones,248.39,72,2024-07-01,Store_C,47,Online Payment
+2224,Monitor,1617.21,68,2023-07-24,Store_A,47,Mobile Payment
+2225,Headphones,2259.42,43,2022-06-26,Store_E,34,Cash
+2226,Monitor,1282.64,71,2023-07-27,Store_C,20,Cash
+2227,Headphones,1086.12,36,2022-09-06,Store_B,73,Credit Card
+2228,Printer,580.57,17,2022-06-11,Store_A,54,Online Payment
+2229,Tablet,2088.96,34,2022-02-09,Store_C,77,Online Payment
+2230,Tablet,556.79,50,2024-05-30,Store_E,62,Credit Card
+2231,Mouse,133.21,52,2024-04-06,Store_A,58,Cash
+2232,Monitor,2374.18,38,2022-01-18,Store_A,54,Credit Card
+2233,Mouse,1721.78,7,2023-01-25,Store_C,17,Debit Card
+2234,Monitor,1026.71,59,2022-05-09,Store_E,58,Online Payment
+2235,Smartphone,546.94,13,2023-10-28,Store_D,22,Mobile Payment
+2236,Laptop,824.89,49,2024-03-03,Store_C,43,Credit Card
+2237,Monitor,1754.02,69,2022-03-18,Store_D,23,Debit Card
+2238,Monitor,946.96,54,2022-05-19,Store_B,73,Debit Card
+2239,Printer,651.13,11,2022-08-15,Store_B,72,Debit Card
+2240,Headphones,837.13,29,2022-04-11,Store_A,53,Online Payment
+2241,Headphones,321.61,65,2023-12-13,Store_C,19,Mobile Payment
+2242,Smartphone,1407.34,74,2023-11-14,Store_D,24,Credit Card
+2243,Mouse,1037.28,73,2022-12-15,Store_C,41,Cash
+2244,Keyboard,207.22,60,2022-11-21,Store_D,75,Cash
+2245,Monitor,571.65,47,2024-04-26,Store_D,48,Credit Card
+2246,Headphones,2017.17,39,2022-11-01,Store_B,19,Mobile Payment
+2247,Monitor,597.07,4,2022-05-28,Store_B,50,Cash
+2248,Headphones,139.45,49,2022-05-20,Store_E,36,Mobile Payment
+2249,Laptop,2177.83,1,2024-04-30,Store_E,32,Mobile Payment
+2250,Keyboard,273.67,22,2022-04-18,Store_C,68,Cash
