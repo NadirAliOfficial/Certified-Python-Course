@@ -22,7 +22,7 @@ def add_student():
     if roll_number in students_df['Roll Number'].values:
         messagebox.showerror("Error", "Student with this roll number already exists.")
     else:
-        new_student = pd.DataFrame([[name, father_name, roll_number, student_class, city]], 
+        new_student = pd.DataFrame([[name, father_name, roll_number, student_class, city]],
                                    columns=students_df.columns)
         students_df = pd.concat([students_df, new_student], ignore_index=True)
         students_df.to_csv("students.csv", index=False)
@@ -35,7 +35,7 @@ def add_student():
 def view_student():
     roll_number = entry_roll_number.get()
     city_filter = entry_city_filter.get()
-    
+
     if roll_number:  # View by roll number
         roll_number = int(roll_number)
         student_data = students_df[students_df['Roll Number'] == roll_number]
@@ -44,9 +44,9 @@ def view_student():
     else:
         messagebox.showerror("Error", "Please enter a roll number or a city to filter.")
         return
-    
+
     clear_treeview()
-    
+
     if not student_data.empty:
         for _, row in student_data.iterrows():
             tree.insert("", tk.END, values=list(row))
@@ -57,7 +57,7 @@ def view_student():
 def update_student():
     global students_df
     roll_number = int(entry_roll_number.get())
-    
+
     if roll_number in students_df['Roll Number'].values:
         students_df.loc[students_df['Roll Number'] == roll_number, 'Name'] = entry_name.get()
         students_df.loc[students_df['Roll Number'] == roll_number, "Father's Name"] = entry_father_name.get()
@@ -75,7 +75,7 @@ def update_student():
 def delete_student():
     global students_df
     roll_number = int(entry_roll_number.get())
-    
+
     if roll_number in students_df['Roll Number'].values:
         students_df = students_df[students_df['Roll Number'] != roll_number]
         students_df.to_csv("students.csv", index=False)
